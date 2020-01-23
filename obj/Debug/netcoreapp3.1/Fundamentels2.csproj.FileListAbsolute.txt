@@ -1,0 +1,10 @@
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\obj\Debug\netcoreapp3.1\Fundamentels2.AssemblyInfoInputs.cache
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\obj\Debug\netcoreapp3.1\Fundamentels2.AssemblyInfo.cs
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\bin\Debug\netcoreapp3.1\Fundamentels2.exe
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\bin\Debug\netcoreapp3.1\Fundamentels2.deps.json
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\bin\Debug\netcoreapp3.1\Fundamentels2.runtimeconfig.json
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\bin\Debug\netcoreapp3.1\Fundamentels2.runtimeconfig.dev.json
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\bin\Debug\netcoreapp3.1\Fundamentels2.dll
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\bin\Debug\netcoreapp3.1\Fundamentels2.pdb
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\obj\Debug\netcoreapp3.1\Fundamentels2.dll
+C:\Users\GEEZALEO\Desktop\IT 242\Fundamentels\Fundamentels2\Fundamentels2\obj\Debug\netcoreapp3.1\Fundamentels2.pdb
